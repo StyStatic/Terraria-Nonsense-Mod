@@ -1,0 +1,3 @@
+displayName = Nonsense Mod
+author = StyStatic
+version = 0.1
